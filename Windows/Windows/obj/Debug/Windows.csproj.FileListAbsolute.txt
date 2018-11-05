@@ -1,0 +1,16 @@
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\Windows.exe.config
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\Windows.exe
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\Windows.pdb
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.dll
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.Video.dll
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.xml
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.Video.xml
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Samet\Desktop\Windows\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\Windows\Windows\obj\Debug\Windows.exe
+C:\Users\Samet\Desktop\Windows\Windows\obj\Debug\Windows.pdb
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\Google.Protobuf.dll
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\MySql.Data.dll
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\Google.Protobuf.xml
+C:\Users\Samet\Desktop\Windows\Windows\bin\Debug\MySql.Data.xml
